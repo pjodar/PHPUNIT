@@ -1,0 +1,13 @@
+{
+    "name": "curso/p1",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/",
+            "Test\\Unit\\": "tests/unit"
+        }
+    }
+}
