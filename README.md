@@ -1,3 +1,2 @@
 # PHPUNIT
-Pruebas php
-Hola Mundo
+Vamos a hacer pruebas con PHP
