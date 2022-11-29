@@ -9,6 +9,6 @@ $this->age = $age;
 }
 
 public function isAnAdult(): bool{
-return $this->age >= 18;
+return $this->age >= 16;
 }
 }
